@@ -1,12 +1,12 @@
 #Project Settings
-#Fri Aug 22 12:50:48 IST 2025
+#Fri Aug 22 13:54:00 IST 2025
 AssociatedProcessCode=
 AssociatedProcessName=
-CreatedDate=Tue Aug 05 06\:49\:21 IST 2025
-Description=Voter Eligibility Using Parameters
-MainFile=WF_WeatherQuestion.psw
-ModifiedDate=Fri Aug 22 12\:50\:48 IST 2025
-Name=Practice_Intermediate
+CreatedDate=Tue Aug 19 09\:49\:23 IST 2025
+Description=Re-test of Intermediate Exam\r\n
+MainFile=Question1_Global.psw
+ModifiedDate=Fri Aug 22 13\:54\:00 IST 2025
+Name=ReTestIntermediate
 Tags=
 sharedWorkflowUsage=[]
 usedSharedWorkflows=[]
