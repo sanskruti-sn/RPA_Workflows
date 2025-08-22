@@ -35,10 +35,10 @@ This repository contains my **RPA workflows built with AutomationEdge**, showcas
 
 
 RPA_Workflows/
-│── workflow1.pef       # Example workflow
-│── workflow2.pef       # Another automation workflow
-│── docs/               # Supporting docs/screenshots (if added)
-│── README.md           # Project documentation
+workflow1.pef       # Example workflow
+workflow2.pef       # Another automation workflow
+docs/               # Supporting docs/screenshots (if added)
+README.md           # Project documentation
 
 
 ## 🔹 Deployment on T3 Server
